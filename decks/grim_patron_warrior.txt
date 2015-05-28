@@ -1,4 +1,4 @@
-version: 1.0.0
+version: 1.0.1
 
 
 ---- Warrior:
@@ -12,14 +12,15 @@ Num		Name				Type		Mana	Attack	HP(durability)
 2		Cruel Taskmaster	Minion		2		2		2
 2		Frothing Berseker	Minion		3		2		4
 2		Warsong Commander	Minion		3		2		3
-2		Death's Bite		Weapon		4		4		2		
+2		Death's Bite		Weapon		4		4		2
+1		Grommash Hellscream	Minion		8		4		9			
 
 ---- Neutral:
 Num		Name				Type		Mana	Attack	HP(durability)
 2		Unstable Ghoul		Minion		2		1		3
 2		Acolyte of Pain		Minion		3		1		3
 2		Dread Corsair		Minion		4		3		3
-2		Gnomish	Inventor	Minion		4		2		4
+1		Gnomish	Inventor	Minion		4		2		4
 2		Grim Patron			Minion		5		3		3
 1		Emperor Thaurissan	Minion		6		5		5
 
@@ -28,4 +29,6 @@ Note:
 Next step add 
 1		Grommash Hellscream	Minion		8		4		9
 Description: "Charge. Engage: +6 Attack"
+
+version 1.0.1: added Grommash hellscream, removed  1 of Gnomish Inventor
 	
