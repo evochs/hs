@@ -1,0 +1,31 @@
+version: 1.0.0
+
+
+---- Warrior:
+Num		Name				Type		Mana	Attack	HP(durability)
+2		Execute				Ability		1		0		0
+2		Whirlwind			Ability		1		0		0
+2		Fiery War Axe		Weapon		2		3		2
+2		Battle Rage			Ability		2		0		0
+2		Slam				Ability		2		0		0
+1		Armorsmith			Minion		2		1		4
+2		Cruel Taskmaster	Minion		2		2		2
+2		Frothing Berseker	Minion		3		2		4
+2		Warsong Commander	Minion		3		2		3
+2		Death's Bite		Weapon		4		4		2		
+
+---- Neutral:
+Num		Name				Type		Mana	Attack	HP(durability)
+2		Unstable Ghoul		Minion		2		1		3
+2		Acolyte of Pain		Minion		3		1		3
+2		Dread Corsair		Minion		4		3		3
+2		Gnomish	Inventor	Minion		4		2		4
+2		Grim Patron			Minion		5		3		3
+1		Emperor Thaurissan	Minion		6		5		5
+
+
+Note:
+Next step add 
+1		Grommash Hellscream	Minion		8		4		9
+Description: "Charge. Engage: +6 Attack"
+	
