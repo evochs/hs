@@ -1,7 +1,6 @@
-version: 1.0.2
+version 1.0.0
 
-
----- Warrior:
+---- Shaman:
 Num		Name				Type		Mana	Attack	HP(durability)
 2		Execute				Ability		1		0		0
 2		Whirlwind			Ability		1		0		0
@@ -22,13 +21,3 @@ Num		Name				Type		Mana	Attack	HP(durability)
 2		Gnomish	Inventor	Minion		4		2		4
 2		Grim Patron			Minion		5		3		3
 1		Emperor Thaurissan	Minion		6		5		5
-
-
-Note:
-Next step add 
-1		Grommash Hellscream	Minion		8		4		9
-Description: "Charge. Engage: +6 Attack"
-
-version 1.0.1: added Grommash hellscream, removed  1 of Gnomish Inventor
-version 1.0.2: removed Grommash Hellscream and 1 Gnomish Inventor restored. No reasons to use Grommash. Cruel Taskmaster is a good finisher though.
-	
