@@ -1,4 +1,4 @@
-version 1.0.0
+version 1.1
 
 ---- Shaman:
 Num		Name				Type		Mana	Attack	HP(durability)
@@ -21,7 +21,10 @@ Num		Name				Type		Mana	Attack	HP(durability)
 1		Defender of Argus	Minion		4		2		3
 2		Piloted Shredder	Minion		4		4		3
 2		Azure Drake			Minion		5		4		4
+1		Mukla's Champion	Minion		5		4		3
 1		Dr. Boom			Minion		7		7		7
-1		Chromaggus			Minion		8		6		8
+
 
 Appena possibile sostituire Chromaggus con Al'Akir the Windlord
+
+v1.1: Rimosso chromaggus e aggiunto Mukla's Champion
